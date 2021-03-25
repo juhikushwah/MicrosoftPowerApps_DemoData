@@ -17,3 +17,5 @@ While working on my PowerApp, I also built basics apps titled 'Help Desk', 'Clas
 <img src="https://user-images.githubusercontent.com/43586452/110077411-eb0cec80-7d3a-11eb-933b-c221716c042b.jpeg" width="350" height="450" align="centre">
 </p>
 
+2. Site Inspection PowerApp lets users inspect a location, add/delete/edit locations, search neaby sites and provides details about the existing sites.
+
