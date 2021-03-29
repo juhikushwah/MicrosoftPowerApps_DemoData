@@ -8,14 +8,13 @@ While working on my PowerApp, I also built basics apps titled 'Help Desk', 'Clas
 
    The following images are a snapshot of my app showcasing the general login for help desk user/admin, interface for generating tickets or logging out, and creating a ticket:
 
+<body>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/43586452/109267342-429cdc80-77be-11eb-9b7b-8415efcaf52c.jpeg" width="350" height="450">
 <img src="https://user-images.githubusercontent.com/43586452/109770066-ed8f0b00-7baf-11eb-9fec-24a746aef1e0.jpeg" width="350" height="450">        
-</p>
-
-<p align="center">
 <img src="https://user-images.githubusercontent.com/43586452/110077411-eb0cec80-7d3a-11eb-933b-c221716c042b.jpeg" width="350" height="450" align="centre">
 </p>
+</body>
 
 2. Site Inspection PowerApp lets users inspect a location, add/delete/edit locations, search neaby sites and provides details about the existing sites.
 
