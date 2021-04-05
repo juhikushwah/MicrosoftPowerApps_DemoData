@@ -18,7 +18,7 @@ While working on my PowerApp, I also built basics apps titled 'Help Desk', 'Clas
 
 2. Site Inspection PowerApp lets users inspect a location, add/delete/edit locations, search neaby sites and provides details about the existing sites.
 
-The following images are a snapshot of my app for inspecting various locations:
+    The following images are a snapshot of my app for inspecting various locations:
 
 <body>
 <p align="center">
