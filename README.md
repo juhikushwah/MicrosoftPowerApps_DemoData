@@ -10,8 +10,8 @@ While working on my PowerApp, I also built basics apps titled 'Help Desk', 'Clas
 
 <body>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/43586452/109267342-429cdc80-77be-11eb-9b7b-8415efcaf52c.jpeg" width="250" height="350">
-<img src="https://user-images.githubusercontent.com/43586452/109770066-ed8f0b00-7baf-11eb-9fec-24a746aef1e0.jpeg" width="250" height="350">        
+<img src="https://user-images.githubusercontent.com/43586452/109267342-429cdc80-77be-11eb-9b7b-8415efcaf52c.jpeg" width="250" height="350">&nbsp;
+<img src="https://user-images.githubusercontent.com/43586452/109770066-ed8f0b00-7baf-11eb-9fec-24a746aef1e0.jpeg" width="250" height="350">&nbsp;       
 <img src="https://user-images.githubusercontent.com/43586452/110077411-eb0cec80-7d3a-11eb-933b-c221716c042b.jpeg" width="250" height="350">
 </p>
 </body>
@@ -22,9 +22,9 @@ While working on my PowerApp, I also built basics apps titled 'Help Desk', 'Clas
 
 <body>
 <p align="center">
-<img src="https://github.com/juhikushwah/MicrosoftPowerApps_DemoData/blob/main/img/SiteInspection/IMG-0450.PNG" width="400" height="250">
+<img src="https://github.com/juhikushwah/MicrosoftPowerApps_DemoData/blob/main/img/SiteInspection/IMG-0450.PNG" width="400" height="250">&nbsp;
 <img src="https://github.com/juhikushwah/MicrosoftPowerApps_DemoData/blob/main/img/SiteInspection/IMG-0448.PNG" width="400" height="250">
-<img src="https://github.com/juhikushwah/MicrosoftPowerApps_DemoData/blob/main/img/SiteInspection/IMG-0449.PNG" width="400" height="250">
+<img src="https://github.com/juhikushwah/MicrosoftPowerApps_DemoData/blob/main/img/SiteInspection/IMG-0449.PNG" width="400" height="250">&nbsp;
 <img src="https://github.com/juhikushwah/MicrosoftPowerApps_DemoData/blob/main/img/SiteInspection/IMG-0452.PNG" width="400" height="250">   
 </p>
 
